@@ -1,0 +1,70 @@
+﻿@model OSPManagementSystem.Models.RescueAction
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>RescueAction</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Date)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Date)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Type)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Type)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Location)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Location)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Description)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Description)
+        </dd>
+    </dl>
+</div>
+<h4>Strażacy biorący udział:</h4>
+@if (Model.Firefighters != null && Model.Firefighters.Any())
+{
+    <ul>
+        @foreach (var f in Model.Firefighters)
+        {
+            <li>@f.FirstName @f.LastName</li>
+        }
+    </ul>
+}
+else
+{
+    <p><i>Brak przypisanych strażaków</i></p>
+}
+<h4>Sprzęt użyty:</h4>
+@if (Model.Equipment != null && Model.Equipment.Any())
+{
+    <ul>
+        @foreach (var eq in Model.Equipment)
+        {
+            <li>@eq.Name</li>
+        }
+    </ul>
+}
+else
+{
+    <p><i>Brak przypisanego sprzętu</i></p>
+}
+<div>
+    <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> |
+    <a asp-action="Index">Back to List</a>
+</div>

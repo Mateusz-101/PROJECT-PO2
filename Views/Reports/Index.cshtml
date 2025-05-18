@@ -1,0 +1,45 @@
+﻿@model OSPManagementSystem.Models.ReportViewModel
+
+@{
+    ViewData["Title"] = "Raporty";
+}
+
+<h2 class="text-osp-red">Raporty i statystyki</h2>
+
+<table class="table table-bordered mt-4">
+    <thead class="table-osp-red">
+        <tr>
+            <th>Strażak</th>
+            <th>Akcje ratownicze</th>
+            <th>Szkolenia</th>
+            <th>Dyżury</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var f in Model.FirefighterActivities)
+        {
+            <tr>
+                <td>@f.FirefighterName</td>
+                <td>@f.RescueActionsCount</td>
+                <td>@f.TrainingsCount</td>
+                <td>@f.SchedulesCount</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<hr />
+<h4 class="text-osp-red">Podsumowanie</h4>
+<ul>
+    <li><strong>Akcje ratownicze:</strong> @Model.TotalRescueActions</li>
+    <li><strong>Szkolenia:</strong> @Model.TotalTrainings</li>
+    <li><strong>Dyżury:</strong> @Model.TotalSchedules</li>
+</ul>
+<div class="mb-3">
+    <a asp-action="ExportToPdf" class="btn btn-osp-red me-2">
+        <i class="bi bi-filetype-pdf"></i> Eksport do PDF
+    </a>
+    <a asp-action="ExportToExcel" class="btn btn-outline-secondary">
+        <i class="bi bi-file-earmark-excel"></i> Eksport do Excel
+    </a>
+</div>

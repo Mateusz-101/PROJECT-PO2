@@ -1,0 +1,191 @@
+html, body {
+    overflow-x: hidden;
+    overflow-y: auto;
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    font-family: 'Segoe UI', sans-serif;
+    color: #1e1e1e;
+    font-size: 16px;
+}
+
+/* === NAVBAR === */
+.navbar {
+    background-color: #ffffff;
+    border-bottom: 1px solid #cccccc;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+    .navbar a, .navbar-brand {
+        color: #b71c1c !important;
+        font-weight: 600;
+    }
+
+        .navbar a:hover {
+            color: #7f0000 !important;
+        }
+
+/* === SIDEBAR === */
+#sidebar, .sidebar {
+    background-color: #fafafa;
+    border-right: 1px solid #ddd;
+    min-height: 100vh;
+    padding: 20px 10px;
+}
+
+.sidebar-logo img {
+    height: 60px;
+    margin-bottom: 20px;
+}
+
+.sidebar .nav-link {
+    color: #b71c1c;
+    font-weight: 500;
+    padding: 10px 14px;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    transition: background-color 0.2s ease-in-out;
+    margin-bottom: 6px;
+}
+
+    .sidebar .nav-link:hover {
+        background-color: #fdecea;
+        color: #880e4f;
+        text-decoration: none;
+    }
+
+.sidebar i {
+    font-size: 1.2rem;
+}
+
+/* === MAIN CONTENT === */
+#main-content {
+    margin-left: 240px;
+    padding: 2rem;
+    background-color: #f9f9f9;
+}
+
+/* === BUTTONS === */
+.btn-primary {
+    background-color: #d32f2f;
+    border: none;
+    color: white;
+    font-weight: 500;
+    transition: background-color 0.3s ease;
+}
+
+    .btn-primary:hover {
+        background-color: #b71c1c;
+    }
+
+/* === TABLES === */
+.table {
+    background-color: white;
+    border-color: #ef9a9a;
+    color: #212121;
+}
+
+    .table th {
+        background-color: #ffebee;
+        color: #b71c1c;
+        border-bottom: 2px solid #ef9a9a;
+    }
+
+    .table td {
+        border-top: 1px solid #f0f0f0;
+    }
+
+/* === FORMS === */
+input.form-control,
+select.form-control,
+textarea.form-control {
+    background-color: #ffffff;
+    border: 1px solid #ef9a9a;
+    color: #212121;
+}
+
+    input.form-control:focus {
+        border-color: #e53935;
+        box-shadow: 0 0 0 0.15rem rgba(229, 57, 53, 0.25);
+        outline: none;
+    }
+
+/* === LINKS === */
+a {
+    color: #c62828;
+    text-decoration: none;
+}
+
+    a:hover {
+        color: #8e0000;
+        text-decoration: underline;
+    }
+
+/* === HEADINGS === */
+h1, h2, h3, h4 {
+    color: #b71c1c;
+    font-weight: 600;
+}
+
+/* === FOOTER === */
+.footer {
+    margin-left: 240px;
+    padding: 1rem;
+    border-top: 1px solid #e0e0e0;
+    background-color: #eeeeee;
+    font-size: 0.9rem;
+    color: #555;
+}
+
+/* === DASHBOARD CARDS === */
+.dashboard-card {
+    width: 300px;
+    min-height: 250px;
+    border: 1px solid #d32f2f;
+    border-radius: 12px;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.05);
+    transition: transform 0.2s ease;
+    background-color: #ffffff;
+}
+
+    .dashboard-card:hover {
+        transform: translateY(-5px);
+    }
+
+.text-osp-red {
+    color: #b71c1c !important;
+}
+
+.bg-osp-red {
+    background-color: #b71c1c !important;
+    color: white;
+}
+
+.border-osp-red {
+    border: 1px solid #b71c1c !important;
+}
+.table-osp-red {
+    background-color: #f8d7da; 
+    color: #b30000;
+}
+.text-osp-red {
+    color: #b30000 !important;
+}
+
+.btn-osp-red {
+    background-color: #b30000;
+    color: white;
+    border: none;
+}
+
+    .btn-osp-red:hover {
+        background-color: #8b0000;
+    }
+
+.table-osp-red {
+    background-color: #f8d7da;
+    color: #b30000;
+}

@@ -1,3 +1,20 @@
+
+git clone https://github.com/Mateusz-101/PROJECT-PO2.git
+
+cd PROJECT-PO2
+
+dotnet --version
+
+dotnet ef --version
+
+dotnet ef migrations add UpdateModel
+
+dotnet ef database drop -f
+
+dotnet ef database update
+
+dotnet run
+
 ## PROJECT-PO2
 # 🔥 1. System Zarządzania Jednostką OSP
 Aplikacja desktopowa lub webowa (np. z ASP.NET) do zarządzania jednostką OSP:

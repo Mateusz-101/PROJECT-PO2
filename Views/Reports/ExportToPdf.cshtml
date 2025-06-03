@@ -1,0 +1,59 @@
+﻿@model ReportViewModel
+@{
+    Layout = null;
+}            @* Nie używamy layoutu strony *@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Raport strażaków</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            border: 1px solid black;
+            padding: 4px;
+            text-align: left;
+        }
+
+        th {
+            font-weight: bold;
+        }
+
+        .summary {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <table>
+        <thead>
+            <tr>
+                <th>Imię i nazwisko</th>
+                <th>Liczba akcji ratowniczych</th>
+                <th>Liczba szkoleń</th>
+                <th>Liczba dyżurów</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.FirefighterActivities)
+            {
+                <tr>
+                    <td>@item.FirefighterName</td>
+                    <td>@item.RescueActionsCount</td>
+                    <td>@item.TrainingsCount</td>
+                    <td>@item.SchedulesCount</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <div class="summary">
+        <p>Łącznie akcji ratowniczych: @Model.TotalRescueActions</p>
+        <p>Łącznie szkoleń: @Model.TotalTrainings</p>
+        <p>Łącznie dyżurów: @Model.TotalSchedules</p>
+    </div>
+</body>
+</html>

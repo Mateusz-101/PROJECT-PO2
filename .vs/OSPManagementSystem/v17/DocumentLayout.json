@@ -1,0 +1,693 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\models\\firefighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:models\\firefighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:models\\schedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\models\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:models\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\models\\rescueaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:models\\rescueaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\models\\reportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:models\\reportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\models\\equiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:models\\equiment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\models\\actionfirefighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:models\\actionfirefighter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\models\\actionequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:models\\actionequipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\controllers\\firefighterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:controllers\\firefighterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\views\\firefighters\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:views\\firefighters\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\views\\firefighters\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:views\\firefighters\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\views\\firefighters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:views\\firefighters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\controllers\\trainingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:controllers\\trainingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\data\\ospcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:data\\ospcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\controllers\\equipmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:controllers\\equipmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\ospmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:ospmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\views\\firefighters\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:views\\firefighters\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\views\\equipments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:views\\equipments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\views\\equipments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:views\\equipments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\views\\equipments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:views\\equipments\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\views\\equipments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:views\\equipments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\views\\equipments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:views\\equipments\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\migrations\\ospcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:migrations\\ospcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\migrations\\20250602190307_updatemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:migrations\\20250602190307_updatemodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\migrations\\20250602182255_fixeddateseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:migrations\\20250602182255_fixeddateseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\migrations\\20250602181805_addseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:migrations\\20250602181805_addseeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\migrations\\20250514171002_addrescueaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:migrations\\20250514171002_addrescueaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\migrations\\20250513190055_addtrainingmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:migrations\\20250513190055_addtrainingmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\migrations\\20250513180048_firsttables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:migrations\\20250513180048_firsttables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\migrations\\20250513175932_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:migrations\\20250513175932_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\data\\seed\\dataseeder_fixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:data\\seed\\dataseeder_fixed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\views\\trainings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:views\\trainings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|c:\\users\\fcben\\desktop\\project-po2-main\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CC44B631-A078-BE2D-DA89-86DC5F7015D2}|OSPManagementSystem.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ActionFirefighter.cs",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Models\\ActionFirefighter.cs",
+              "RelativeDocumentMoniker": "Models\\ActionFirefighter.cs",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Models\\ActionFirefighter.cs",
+              "RelativeToolTip": "Models\\ActionFirefighter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:55:38.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Equiment.cs",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Models\\Equiment.cs",
+              "RelativeDocumentMoniker": "Models\\Equiment.cs",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Models\\Equiment.cs",
+              "RelativeToolTip": "Models\\Equiment.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:24:20.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T20:01:21.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Firefighter.cs",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Models\\Firefighter.cs",
+              "RelativeDocumentMoniker": "Models\\Firefighter.cs",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Models\\Firefighter.cs",
+              "RelativeToolTip": "Models\\Firefighter.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:43:45.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Models\\ReportViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ReportViewModel.cs",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Models\\ReportViewModel.cs",
+              "RelativeToolTip": "Models\\ReportViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T20:46:28.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RescueAction.cs",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Models\\RescueAction.cs",
+              "RelativeDocumentMoniker": "Models\\RescueAction.cs",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Models\\RescueAction.cs",
+              "RelativeToolTip": "Models\\RescueAction.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T20:45:02.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Training.cs",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Models\\Training.cs",
+              "RelativeDocumentMoniker": "Models\\Training.cs",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Models\\Training.cs",
+              "RelativeToolTip": "Models\\Training.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T20:43:50.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Schedule.cs",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Models\\Schedule.cs",
+              "RelativeDocumentMoniker": "Models\\Schedule.cs",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Models\\Schedule.cs",
+              "RelativeToolTip": "Models\\Schedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T20:45:09.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ActionEquipment.cs",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Models\\ActionEquipment.cs",
+              "RelativeDocumentMoniker": "Models\\ActionEquipment.cs",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Models\\ActionEquipment.cs",
+              "RelativeToolTip": "Models\\ActionEquipment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:55:35.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "Controllers\\ReportsController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T17:58:51.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FirefightersController.cs",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Controllers\\FirefightersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FirefightersController.cs",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Controllers\\FirefightersController.cs",
+              "RelativeToolTip": "Controllers\\FirefightersController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T05:10:50.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\Firefighters\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Firefighters\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\Firefighters\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Firefighters\\Edit.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAADoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T19:34:57.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\Firefighters\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Firefighters\\Details.cshtml",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\Firefighters\\Details.cshtml",
+              "RelativeToolTip": "Views\\Firefighters\\Details.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T08:12:29.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:26:25.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\Firefighters\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Firefighters\\Index.cshtml",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\Firefighters\\Index.cshtml",
+              "RelativeToolTip": "Views\\Firefighters\\Index.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T19:42:32.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABUAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T20:38:34.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T06:47:26.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TrainingsController.cs",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Controllers\\TrainingsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TrainingsController.cs",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Controllers\\TrainingsController.cs",
+              "RelativeToolTip": "Controllers\\TrainingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T20:47:24.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OSPContext.cs",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Data\\OSPContext.cs",
+              "RelativeDocumentMoniker": "Data\\OSPContext.cs",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Data\\OSPContext.cs",
+              "RelativeToolTip": "Data\\OSPContext.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:13:08.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T17:57:33.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EquipmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Controllers\\EquipmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EquipmentsController.cs",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Controllers\\EquipmentsController.cs",
+              "RelativeToolTip": "Controllers\\EquipmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:11:28.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-03T08:29:51.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\Firefighters\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Firefighters\\Create.cshtml",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\Firefighters\\Create.cshtml",
+              "RelativeToolTip": "Views\\Firefighters\\Create.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T20:03:10.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OSPManagementSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\OSPManagementSystem.csproj",
+              "RelativeDocumentMoniker": "OSPManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\OSPManagementSystem.csproj",
+              "RelativeToolTip": "OSPManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-03T08:41:20.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-02T19:51:13.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\Equipments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Equipments\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\Equipments\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Equipments\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T21:29:54.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\Equipments\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Equipments\\Details.cshtml",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\Equipments\\Details.cshtml",
+              "RelativeToolTip": "Views\\Equipments\\Details.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T21:29:17.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\Equipments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Equipments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\Equipments\\Index.cshtml",
+              "RelativeToolTip": "Views\\Equipments\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T19:23:40.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\Equipments\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Equipments\\Create.cshtml",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\Equipments\\Create.cshtml",
+              "RelativeToolTip": "Views\\Equipments\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T19:21:55.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\Equipments\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Equipments\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\Equipments\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Equipments\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T21:26:23.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "OSPContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Migrations\\OSPContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\OSPContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Migrations\\OSPContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\OSPContextModelSnapshot.cs",
+              "ViewState": "AgIAAFcDAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T21:15:05.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250602190307_UpdateModels.cs",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Migrations\\20250602190307_UpdateModels.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250602190307_UpdateModels.cs",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Migrations\\20250602190307_UpdateModels.cs",
+              "RelativeToolTip": "Migrations\\20250602190307_UpdateModels.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T21:15:01.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250602182255_FixedDateSeed.cs",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Migrations\\20250602182255_FixedDateSeed.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250602182255_FixedDateSeed.cs",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Migrations\\20250602182255_FixedDateSeed.cs",
+              "RelativeToolTip": "Migrations\\20250602182255_FixedDateSeed.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T21:14:58.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250602181805_AddSeedData.cs",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Migrations\\20250602181805_AddSeedData.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250602181805_AddSeedData.cs",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Migrations\\20250602181805_AddSeedData.cs",
+              "RelativeToolTip": "Migrations\\20250602181805_AddSeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T21:14:55.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20250514171002_AddRescueAction.cs",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Migrations\\20250514171002_AddRescueAction.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250514171002_AddRescueAction.cs",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Migrations\\20250514171002_AddRescueAction.cs",
+              "RelativeToolTip": "Migrations\\20250514171002_AddRescueAction.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T21:14:49.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250513190055_AddTrainingModule.cs",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Migrations\\20250513190055_AddTrainingModule.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250513190055_AddTrainingModule.cs",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Migrations\\20250513190055_AddTrainingModule.cs",
+              "RelativeToolTip": "Migrations\\20250513190055_AddTrainingModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T21:14:48.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250513180048_FirstTables.cs",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Migrations\\20250513180048_FirstTables.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250513180048_FirstTables.cs",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Migrations\\20250513180048_FirstTables.cs",
+              "RelativeToolTip": "Migrations\\20250513180048_FirstTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T21:14:47.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250513175932_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Migrations\\20250513175932_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250513175932_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Migrations\\20250513175932_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250513175932_InitialCreate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T21:14:43.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DataSeeder_Fixed.cs",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Data\\Seed\\DataSeeder_Fixed.cs",
+              "RelativeDocumentMoniker": "Data\\Seed\\DataSeeder_Fixed.cs",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Data\\Seed\\DataSeeder_Fixed.cs",
+              "RelativeToolTip": "Data\\Seed\\DataSeeder_Fixed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:12:49.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\Trainings\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Trainings\\Create.cshtml",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\Trainings\\Create.cshtml",
+              "RelativeToolTip": "Views\\Trainings\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T20:47:49.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T20:03:55.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\fcben\\Desktop\\PROJECT-PO2-main\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-02T20:38:46.029Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

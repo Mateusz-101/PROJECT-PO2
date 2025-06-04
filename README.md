@@ -1,11 +1,28 @@
+✅ KROK 1: Zainstaluj .NET SDK
+
+ [https://dotnet.microsoft.com/download](https://dotnet.microsoft.com/download)
+
+dotnet --version
+
+✅ KROK 2: Zainstaluj narzędzie EF Core (Entity Framework)
+
+dotnet tool install --global dotnet-ef
+
+dotnet ef
+
+✅ KROK 3: Sklonuj projekt z GitHuba
 
 git clone https://github.com/Mateusz-101/PROJECT-PO2.git
 
 cd PROJECT-PO2
 
-dotnet --version
+✅ KROK 4: Przygotuj bazę danych
 
-dotnet ef --version
+1. Sprawdź w `appsettings.json`, jakiej bazy danych używasz (np. SQL Server, SQLite)
+   
+2. Jeśli to SQL Server – upewnij się, że masz zainstalowany **SQL Server Express / LocalDB**
+
+✅ KROK 5: Zrób migrację i uaktualnij bazę
 
 dotnet ef migrations add UpdateModel
 
@@ -13,7 +30,20 @@ dotnet ef database drop -f
 
 dotnet ef database update
 
+✅ KROK 6: Uruchom projekt
+
 dotnet run
+
+✅ KROK 7: Wejdź w przeglądarce
+
+https://localhost:5001
+
+https://localhost:5001/Firefighters
+
+https://localhost:5001/Equipments
+
+https://localhost:5001/RescueActions
+
 
 ## PROJECT-PO2
 # 🔥 1. System Zarządzania Jednostką OSP

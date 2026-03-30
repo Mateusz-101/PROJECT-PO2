@@ -1,28 +1,28 @@
-✅ KROK 1: Zainstaluj .NET SDK
+## KROK 1: Zainstaluj .NET SDK
 
  [https://dotnet.microsoft.com/download](https://dotnet.microsoft.com/download)
 
 dotnet --version
 
-✅ KROK 2: Zainstaluj narzędzie EF Core (Entity Framework)
+## KROK 2: Zainstaluj narzędzie EF Core (Entity Framework)
 
 dotnet tool install --global dotnet-ef
 
 dotnet ef
 
-✅ KROK 3: Sklonuj projekt z GitHuba
+## KROK 3: Sklonuj projekt z GitHuba
 
 git clone https://github.com/Mateusz-101/PROJECT-PO2.git
 
 cd PROJECT-PO2
 
-✅ KROK 4: Przygotuj bazę danych
+## KROK 4: Przygotuj bazę danych
 
 1. Sprawdź w `appsettings.json`, jakiej bazy danych używasz (np. SQL Server, SQLite)
    
 2. Jeśli to SQL Server – upewnij się, że masz zainstalowany **SQL Server Express / LocalDB**
 
-✅ KROK 5: Zrób migrację i uaktualnij bazę
+## KROK 5: Zrób migrację i uaktualnij bazę
 
 dotnet ef migrations add UpdateModel
 
@@ -30,11 +30,11 @@ dotnet ef database drop -f
 
 dotnet ef database update
 
-✅ KROK 6: Uruchom projekt
+## KROK 6: Uruchom projekt
 
 dotnet run
 
-✅ KROK 7: Wejdź w przeglądarce
+## KROK 7: Wejdź w przeglądarce
 
 https://localhost:5001
 
@@ -46,7 +46,7 @@ https://localhost:5001/RescueActions
 
 
 ## PROJECT-PO2
-# 🔥 1. System Zarządzania Jednostką OSP
+# 1. System Zarządzania Jednostką OSP
 Aplikacja desktopowa lub webowa (np. z ASP.NET) do zarządzania jednostką OSP:
 
 Funkcje:
@@ -61,7 +61,7 @@ Zarządzanie sprzętem (przeglądy techniczne, wypożyczenia)
 
 Statystyki i raporty (np. liczba akcji w miesiącu)
 
-# 🔥 System Zarządzania Jednostką OSP
+# System Zarządzania Jednostką OSP
 # 1. Moduł: Członkowie OSP
 Funkcje:
 
@@ -127,10 +127,10 @@ Raporty PDF/Excel (np. kto brał udział w ilu akcjach)
 
 Liczba szkoleń, aktywność strażaków
 
-🗃️ Propozycja Bazy Danych (schemat)
+Propozycja Bazy Danych (schemat)
 Poniżej prezentuję uproszczony schemat relacyjnej bazy danych:
 
-🔗 Tabele i relacje:
+Tabele i relacje:
 Firefighter
 
 ├── Id (PK)
